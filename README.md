@@ -1,1 +1,2 @@
-# Password-Generate-BSZ
+# Password-Generate-BSZEl
+The bsz password generator can use the code to make their own password generators and examples
